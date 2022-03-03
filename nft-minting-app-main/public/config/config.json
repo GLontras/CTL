@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb02078d29Abd200C3E338D78eC0673f8cC5F174C",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb02078d29abd200c3e338d78ec0673f8cc5f174c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cool Tiger's Life",
+  "SYMBOL": "CTLNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cool-tigers-life",
+  "SHOW_BACKGROUND": true
+}
